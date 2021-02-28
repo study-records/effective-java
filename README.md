@@ -14,4 +14,4 @@
 ## 개인 블로그 링크
 
 - [Pyro(고정완)](https://www.notion.so/Effective-Java-bcf5b240d9184907a355a33b67efdadb)
-- [손순철](링크 없음)
+- [손순철](https://github.com/study-records/effective-java/blob/main/README.md)
