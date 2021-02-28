@@ -10,3 +10,8 @@
 - 미팅전까지 이슈를 통해 공부한 내용을 자신만의 개인 블로그에 정리한다.
 - 미팅 때에는 라이브 면접 느낌으로, 자신의 블로그 글을 설명해본다.
 - 설명하는 사람이 Interviewee, 듣는 사람이 Interviewer 역할을 맡는다.
+
+## 개인 블로그 링크
+
+- [Pyro(고정완)](https://www.notion.so/Effective-Java-bcf5b240d9184907a355a33b67efdadb)
+- [손순철](링크 없음)
